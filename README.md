@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @GConwayCollegeProjects
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gordon Conway
+- 👀 I’m interested in developing apps to improve peoples social life.
+- 🌱 I’m currently learning PHP, HTML, Slim, JAVASCRIPT, CSS 
+- 💞️ I’m not looking to collaborate at the moment 
+- 📫 Contact me at P2613434@my365.dmu.ac.uk
 
-<!---
-GConwayCollegeProjects/GConwayCollegeProjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
